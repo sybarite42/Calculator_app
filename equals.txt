@@ -1,0 +1,26 @@
+
+
+List of strings (numbers)
+List of strings (operators)
+
+Take input
+
+	Is a Number?
+		Add to string
+	
+	Is a Operator?
+		Was last character an operator?
+			Yes
+				replace last operator
+			No
+				Add to string
+				Add string to List
+				Next number string
+	
+	Is neither?
+		Deny input
+		
+
+At end of list?
+
+	
